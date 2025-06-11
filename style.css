@@ -2,3 +2,13 @@ body{
     background-color: #666;
     color: aliceblue;
 }
+header {
+    text-align: center;
+    margin: 10px auto 50px;
+    border-bottom: #fcfcfc;
+}
+
+section h2 {
+    text-align: center;
+}
+
